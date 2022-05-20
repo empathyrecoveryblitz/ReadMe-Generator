@@ -27,9 +27,9 @@
   
   Watch the demo video
   
-  [README GENERATOR]("https://a.pomf.cat/rddkws.mp4" "README GENERATOR")
+  README GENERATOR
 
-  ![redme-gen]("https://a.pomf.cat/rddkws.mp4" "README GENERATOR")
+  ![redme-gen](https://a.pomf.cat/rddkws.mp4)
 
 
   
