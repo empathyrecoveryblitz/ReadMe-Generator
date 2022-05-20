@@ -1,9 +1,5 @@
 ## readme-gen
-
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  
-  
+ 
   ## Installation 
   Clone this repository by clicking on the green button that says 'Code'
   
@@ -33,7 +29,7 @@
   
   [README GENERATOR]("https://a.pomf.cat/rddkws.mp4" "README GENERATOR")
 
-  ![redme-gen]
+  ![redme-gen]("https://a.pomf.cat/rddkws.mp4" "README GENERATOR")
 
 
   
