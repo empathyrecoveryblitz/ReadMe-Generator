@@ -29,7 +29,7 @@
   
   README GENERATOR
 
-  ![redme-gen](https://yt-embed.herokuapp.com/embed?v=zVA3NIz4YQI)
+  [![redme-gen](https://yt-embed.herokuapp.com/embed?v=zVA3NIz4YQI)](https://youtu.be/zVA3NIz4YQI)
 
 
   
